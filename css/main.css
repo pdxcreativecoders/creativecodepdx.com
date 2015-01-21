@@ -6,15 +6,15 @@
 
 @font-face {
  font-family: 'roboto-thin';
- src: url('/fonts/Roboto-Thin.ttf');
+ src: url('../fonts/Roboto-Thin.ttf');
 }
 @font-face {
  font-family: 'roboto-light';
- src: url('/fonts/Roboto-Light.ttf');
+ src: url('../fonts/Roboto-Light.ttf');
 }
 @font-face {
  font-family: 'roboto-regular';
- src: url('/fonts/Roboto-Regular.ttf');
+ src: url('../fonts/Roboto-Regular.ttf');
 }
 
 body {
@@ -28,7 +28,7 @@ body {
 
 
 .full0 {
-  background: url(/img/bg0.jpg) no-repeat center center fixed;
+  background: url(../img/bg0.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,7 +36,7 @@ body {
 }
 
 .full1 {
-  background: url(/img/bg1.jpg) no-repeat center center fixed;
+  background: url(../img/bg1.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -44,7 +44,7 @@ body {
 }
 
 .full2 {
-  background: url(/img/bg2.jpg) no-repeat center center fixed;
+  background: url(../img/bg2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
